@@ -7,5 +7,5 @@ social:
     link: wwww.instagram.com
     icon_pack: ai
     icon: ddd
-superuser: true
+superuser: false
 ---

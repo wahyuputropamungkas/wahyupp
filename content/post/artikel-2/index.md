@@ -3,6 +3,9 @@ title: Artikel 2
 date: 2021-09-14T14:31:54.392Z
 draft: false
 featured: false
+authors:
+  - admin
+  - WahyuPutroPamungkas
 image:
   filename: featured
   focal_point: Smart

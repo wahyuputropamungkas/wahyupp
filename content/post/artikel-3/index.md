@@ -3,8 +3,7 @@ title: Artikel 3
 date: 2021-09-14T14:32:20.542Z
 draft: false
 featured: false
-authors:
-  - wahyuputropamungkas
+authors: []
 image:
   filename: featured
   focal_point: Smart
